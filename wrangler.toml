@@ -1,0 +1,7 @@
+name = "comingsoon"
+compatibility_date = "2026-06-20"
+workers_dev = true
+preview_urls = true
+
+[assets]
+directory = "./Coming soon website"
